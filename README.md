@@ -26,8 +26,9 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,dotnet,html,css,js,angular,mysql,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,dotnet,html,css,js,angular,mysql,git,github,gitlab,Jupyter Notebook" />
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+  
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
 </p>
 
