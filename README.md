@@ -11,7 +11,7 @@
 - 🔧 Worked with tools like **Visual Studio, VS Code, Git, GitHub, GitLab, JIRA**
 - 📈 Data Visualization enthusiast with **Power BI and Tableau**
 - 💬 Ask me about **.NET Development, C#, Angular, SQL, and DSA**
-- 📧 Reach me at **[your email here]**
+- 📧 Reach me at **spreet.kaur1203@gmail.com**
 
 ---
 
